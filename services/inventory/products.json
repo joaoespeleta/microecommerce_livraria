@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "1984",
+        "author": "George Orwell",
+        "quantity": 10,
+        "price": 21.22,
+        "photo": "../../assets/1984.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pai Rico, Pai Pobre",
+        "author": "Robert T. Kiyosaki",
+        "quantity": 10,
+        "price": 21.22,
+        "photo": "../../assets/pai_rico_pai_pobre.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Nome do livro3",
+        "author": "George S.Clason",
+        "quantity": 10,
+        "price": 21.22,
+        "photo": "../../assets/homem_babilonia.jpg"
+    }
+]
